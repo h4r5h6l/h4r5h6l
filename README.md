@@ -1,7 +1,7 @@
+
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I%27m%20Harshal%20Tandel
-%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.Sc.%20Computer%20Science%20%7C%20Big%20Data%20%ANand%20AI%20%7C%20Leipzig%2C%20Germany&descAlignY=55&descAlign=50)
+![Banner](![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=200&section=header&text=Harshal%20Tandel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.Sc.%20Computer%20Science%20%7C%20Cybersecurity%20with%20AI%20%7C%20Leipzig%2C%20Germany&descAlignY=58&descAlign=50))
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshal--Tandel-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshal-manohar-tandel-108134206/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=github)](https://h4r5h3l.github.io/Portfolio-Website/Portfolio.html)
