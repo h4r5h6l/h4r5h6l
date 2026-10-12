@@ -1,10 +1,11 @@
 
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I%27m%20Harshal%20Tandel%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.Sc.%20Computer%20Science%20%7C%20Big%20Data%20%ANand%20AI%20%7C%20Leipzig%2C%20Germany&descAlignY=55&descAlign=50)
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=9000&color=9AB973&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Harshal+Tandel)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshal--Tandel-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshal-manohar-tandel-108134206/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=github)](https://h4r5h3l.github.io/Portfolio-Website/Portfolio.html)
+[![Email](https://img.shields.io/badge/Email-HarshalTandel2812-D14836?style=flat&logo=gmail&logoColor=white)](mailto:HarshalTandel2812@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=h4r5h6l&color=blueviolet&style=flat&label=Profile+Views)
 
 </div>
@@ -48,3 +49,15 @@ I'm a **Master's student in Computer Science (Cybersecurity with AI)** based in 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![OpenText BPM](https://img.shields.io/badge/OpenText_BPM-E6007E?style=for-the-badge)
+
+
+## 🔥 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🔌 [**Connect-Now**](https://github.com/h4r5h6l/connect-now) | Multi-party platform digitising PV solar grid connection for German grid operators, with role-based services, real-time status tracking and VDE Data Set 3.0 document validation *(Startup Elevator, 36-hour sprint)* | Next.js, React, TypeScript |
+| 📈 [**TRAKTOR**](https://github.com/h4r5h6l/Price-Tracker-Browser-Extension) | Cross-platform price tracker: FastAPI backend collecting prices from multiple e-commerce sites, plus a browser extension with price-drop alerts | Python, FastAPI, React, Scrapling |
+| 💬 **WhatsApp Notification Router** | Context-aware pipeline that classifies messages into notify / digest / mute, trained on real and synthetic (SDV) data *(Hackerrank)* | Python, ML, SDV |
+| 🧮 [**Deterministic Forecasting Engine**] (https://github.com/h4r5h6l/hackerrank-orchestrate-september26) | 90-day financial simulation engine with cash-flow forecasting, recurring events and constraint-based payment optimisation *(Hackerrank)* | Python |
+| 🎮 **Deutsch Quest** | Snake game that teaches German vocabulary and grammar; **most creative project** at IEEE SRH hackathon *(4 hours, team of 2)* | React, Vite |
+| 📊 **Algorithm Visualizer** | Interactive web app to visualise sorting algorithms with adjustable array size and speed | JavaScript |
