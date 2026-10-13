@@ -57,7 +57,15 @@ I'm a **Master's student in Computer Science (Cybersecurity with AI)** based in 
 |---|---|---|
 | 🔌 [**Connect-Now**](https://github.com/h4r5h6l/connect-now) | Multi-party platform digitising PV solar grid connection for German grid operators, with role-based services, real-time status tracking and VDE Data Set 3.0 document validation *(Startup Elevator, 36-hour sprint)* | Next.js, React, TypeScript |
 | 📈 [**TRAKTOR**](https://github.com/h4r5h6l/Price-Tracker-Browser-Extension) | Cross-platform price tracker: FastAPI backend collecting prices from multiple e-commerce sites, plus a browser extension with price-drop alerts | Python, FastAPI, React, Scrapling |
-| 💬 **WhatsApp Notification Router** | Context-aware pipeline that classifies messages into notify / digest / mute, trained on real and synthetic (SDV) data *(Hackerrank)* | Python, ML, SDV |
-| 🧮 [**Deterministic Forecasting Engine**] (https://github.com/h4r5h6l/hackerrank-orchestrate-september26) | 90-day financial simulation engine with cash-flow forecasting, recurring events and constraint-based payment optimisation *(Hackerrank)* | Python |
+| 💬 [**WhatsApp Notification Router**](https://github.com/h4r5h6l/hackerrank-orchestrate-august26) | Context-aware pipeline that classifies messages into notify / digest / mute, trained on real and synthetic (SDV) data *(Hackerrank)* | Python, ML, SDV |
+| 🧮 [**Deterministic Forecasting Engine**](https://github.com/h4r5h6l/hackerrank-orchestrate-september26) | 90-day financial simulation engine with cash-flow forecasting, recurring events and constraint-based payment optimisation *(Hackerrank)* | Python |
 | 🎮 **Deutsch Quest** | Snake game that teaches German vocabulary and grammar; **most creative project** at IEEE SRH hackathon *(4 hours, team of 2)* | React, Vite |
-| 📊 **Algorithm Visualizer** | Interactive web app to visualise sorting algorithms with adjustable array size and speed | JavaScript |
+| 📊 [**Algorithm Visualizer**](https://github.com/h4r5h6l/sorting-visualizer) | Interactive web app to visualise sorting algorithms with adjustable array size and speed | JavaScript |
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=h4r5h6l&theme=tokyonight&hide_border=true)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4r5h6l&theme=tokyonight)
